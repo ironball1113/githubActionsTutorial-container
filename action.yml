@@ -1,5 +1,3 @@
-18 lines (18 sloc)  367 Bytes
-  
 name: 'Uppercase'
 description: 'Convert text to uppercase'
 author: 'ironball'
